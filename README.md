@@ -119,5 +119,5 @@ Conclusion
 
 The AquaGuard project has made significant progress in developing an AI-based solution for classifying the condition of drainage systems using satellite imagery. Despite the challenges of achieving the desired accuracy and sourcing comprehensive datasets, the project has established a solid foundation. Continued efforts in data enhancement and model optimization are expected to improve performance and achieve the project’s goals.
 
-
+To source the Aquaguard sentinel project locally, download the github desktop application and follow the cloning steps.
 
